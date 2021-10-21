@@ -1,0 +1,35 @@
+{
+    "albums": [
+        {
+            "name": "Drake",
+            "shortname": "certifiedloverboy",
+            "albumname": "Certified Lover Boy",
+            "summary": "Certified Lover Boy is the sixth studio album by Canadian rapper Drake. It was released on September 3, 2021, by OVO Sound and Republic Records. Its production was handled by frequent collaborators 40, Nineteen85, PartyNextDoor, OZ, and Vinylz, among others. Lil Baby, Lil Durk, Giveon, Jay-Z, Travis Scott, Future, Young Thug, Yebba, 21 Savage, Project Pat, Tems, Ty Dolla Sign, Lil Wayne, Rick Ross, and Kid Cudi appear as guest artists.",
+            "artwork": [
+                "homework/drakeOVOProj/public/images/albumCovers/certifiedLoverBoy.jpeg"
+            ],
+            "tracklist": "1. Champagne Poetry<br>2. Papi's Home<br>3. Girls Want Girls<br>4. In The Bible<br>5. Love All<br>6. Fair Trade<br>7. Way 2 Sexy<br>8. TSU<br>9. N 2 Deep<br>10. Pipe Down<br>11. Yebba's Heartbreak<br>12. No Friends in the Industry<br>13. Knife Talk<br>14. 7am On Bridle Path<br>15. Race My Mind<br>16. Fountains<br>17. Get Along Better<br>18. You Only Live Twice<br>19. IMY2<br>20. Fucking Fans<br>21. The Remorse"
+        },
+        {
+            "name": "Drake",
+            "shortname": "darklanedemotapes",
+            "albumname": "Dark Lane Demo Tapes",
+            "summary": "Dark Lane Demo Tapes is a mixtape by Canadian rapper Drake. The mixtape is a compilation of songs that were released on SoundCloud or leaked on the internet, as well as new songs, and is considered a warm-up to Drake's sixth studio album Certified Lover Boy. It was released on May 1, 2020, by OVO Sound and Republic Records. Production was handled by Drake's longtime collaborator 40, among other record producers. Featured guest appearances include Future, Young Thug, Chris Brown, Playboi Carti, Giveon, Fivio Foreign, and Sosa Geek",
+            "artwork": [
+                "homework/drakeOVOProj/public/images/albumCovers/darkLaneDemoTapes.jpeg"
+            ],
+            "tracklist": "1. Deep Pockets<br>2. When To Say When<br>3. Chicago Freestyle ft. Giveon<br>4. Not You Too<br>5. Toosie Slide<br>6. Desires<br>6. Time Flies<br>7. Landed<br>8. D4L Freestyle<br>9. Pain 1993<br>10. Losses<br>11. From Florida With Love<br>12. Demons<br>13. War"
+        },
+        {
+            "name": "Drake",
+            "shortname": "ifyourereadingthisitstoolate",
+            "albumname": "If You're Reading This It's Too Late",
+            "summary": "If You're Reading This It's Too Late is a commercial mixtape by Canadian rapper Drake. It was released on February 13, 2015, without prior announcement, by OVO Sound, Young Money Entertainment, Cash Money Records and Republic Records. The mixtape was produced by Drake's longtime collaborators 40 and Boi-1da, as well as labelmate PartyNextDoor, among others. Featured guest appearances include PartyNextDoor, Travis Scott, and Lil Wayne.",
+            "artwork": [
+                "homework/drakeOVOProj/public/images/albumCovers/ifYourReadingThis.jpeg"
+            ],
+            "tracklist": "1. Legend<br>2. Energy<br>3. 10 Bands<br>4. Know Yourself<br>5. No Tellin’<br>6. Madonna<br>7. 6 God<br>8. Star67<br>9. Preach<br>10. Wednesday Night Interlude<br>11. Used To<br>13. Now & Forever<br>14. Company<br>15. You & The 6<br>16. Jungle<br>17. 6PM In New York"
+        },
+        {}
+    ]
+}
