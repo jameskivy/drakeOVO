@@ -11,8 +11,7 @@ router.get('/albums', (req, res) => {
 
 
     res.render('albums', {
-        pageTitle: "View All Albums",
-        pageId: 'Albums',
+        pageTitle: "Drake: Albums",
         albums: data.albums
     })
 })
