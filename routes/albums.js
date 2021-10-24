@@ -10,27 +10,10 @@ router.get('/albums', (req, res) => {
 
 
 
-
-
-    res.render('albums',{
-        pageTitle: "Albums",
+    res.render('albums', {
+        pageTitle: "View All Albums",
         pageId: 'Albums',
         albums: data.albums
-    })
-})
-
-router.get('/albums/:albumID', (req, res) => {
-
-    let data = req.app.get("appData");
-    let myHTML = "";
-
-    let albums = data.albums[req.params.albumID];
-
-
-    res.render('albumIndi',{
-        pageTitle: "Album",
-        pageId: 'Albums',
-        albums: albums
     })
 })
 

@@ -5,8 +5,8 @@ router.get('/', (req, res) => {
 
 
 
-    res.render('index',{
-        title: "Drake Albums",
+    res.render('index', {
+        pageTitle: "Drake Albums",
         pageId: "Home",
     })
 })

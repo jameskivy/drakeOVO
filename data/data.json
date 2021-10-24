@@ -4,32 +4,76 @@
             "name": "Drake",
             "shortname": "certifiedloverboy",
             "albumname": "Certified Lover Boy",
+            "releasedate": "September 3, 2021", 
             "summary": "Certified Lover Boy is the sixth studio album by Canadian rapper Drake. It was released on September 3, 2021, by OVO Sound and Republic Records. Its production was handled by frequent collaborators 40, Nineteen85, PartyNextDoor, OZ, and Vinylz, among others. Lil Baby, Lil Durk, Giveon, Jay-Z, Travis Scott, Future, Young Thug, Yebba, 21 Savage, Project Pat, Tems, Ty Dolla Sign, Lil Wayne, Rick Ross, and Kid Cudi appear as guest artists.",
-            "artwork": [
-                "homework/drakeOVOProj/public/images/albumCovers/certifiedLoverBoy.jpeg"
-            ],
-            "tracklist": "1. Champagne Poetry<br>2. Papi's Home<br>3. Girls Want Girls<br>4. In The Bible<br>5. Love All<br>6. Fair Trade<br>7. Way 2 Sexy<br>8. TSU<br>9. N 2 Deep<br>10. Pipe Down<br>11. Yebba's Heartbreak<br>12. No Friends in the Industry<br>13. Knife Talk<br>14. 7am On Bridle Path<br>15. Race My Mind<br>16. Fountains<br>17. Get Along Better<br>18. You Only Live Twice<br>19. IMY2<br>20. Fucking Fans<br>21. The Remorse"
+            "artwork": ["certifiedloverboy_ovo.jpeg"],
+            "tracklist": "1. Champagne Poetry<br>2. Papi's Home<br>3. Girls Want Girls<br>4. In The Bible<br>5. Love All<br>6. Fair Trade<br>7. Way 2 Sexy<br>8. TSU<br>9. N 2 Deep<br>10. Pipe Down<br>11. Yebba's Heartbreak<hr>12. No Friends in the Industry<br>13. Knife Talk<br>14. 7am On Bridle Path<br>15. Race My Mind<br>16. Fountains<br>17. Get Along Better<br>18. You Only Live Twice<br>19. IMY2<br>20. Fucking Fans<br>21. The Remorse"
+        },
+        {
+            "name": "Drake",
+            "shortname": "scaryhours2",
+            "albumname": "Scary Hours 2",
+            "releasedate": "March 5, 2021", 
+            "summary": "Scary Hours 2 is the fourth extended play by Canadian rapper Drake and a sequel to his second extended play Scary Hours (2018). It was released on March 5, 2021, and features two collaborations with American rappers Lil Baby and Rick Ross.[2] The lead single, What's Next, was released alongside the EP with an accompanying music video.",
+            "artwork": ["scaryhours2_ovo.jpeg"],
+            "tracklist": "1. What's Next<br>2. Wants and Needs<br>3. Lemon Pepper Freestyle<br>"
         },
         {
             "name": "Drake",
             "shortname": "darklanedemotapes",
             "albumname": "Dark Lane Demo Tapes",
+            "releasedate": "May 20, 2020",
             "summary": "Dark Lane Demo Tapes is a mixtape by Canadian rapper Drake. The mixtape is a compilation of songs that were released on SoundCloud or leaked on the internet, as well as new songs, and is considered a warm-up to Drake's sixth studio album Certified Lover Boy. It was released on May 1, 2020, by OVO Sound and Republic Records. Production was handled by Drake's longtime collaborator 40, among other record producers. Featured guest appearances include Future, Young Thug, Chris Brown, Playboi Carti, Giveon, Fivio Foreign, and Sosa Geek",
-            "artwork": [
-                "homework/drakeOVOProj/public/images/albumCovers/darkLaneDemoTapes.jpeg"
-            ],
+            "artwork": ["darklanedemotapes_ovo.jpeg"],
             "tracklist": "1. Deep Pockets<br>2. When To Say When<br>3. Chicago Freestyle ft. Giveon<br>4. Not You Too<br>5. Toosie Slide<br>6. Desires<br>6. Time Flies<br>7. Landed<br>8. D4L Freestyle<br>9. Pain 1993<br>10. Losses<br>11. From Florida With Love<br>12. Demons<br>13. War"
+        },
+        {
+            "name": "Drake",
+            "shortname": "scorpion",
+            "albumname": "Scorpion",
+            "releasedate": "June 29, 2018",
+            "summary": "Scorpion is the fifth studio album by Canadian rapper Drake. It was released on June 29, 2018, by Cash Money Records, Republic Records, and Young Money Entertainment. Scorpion is a double album consisting of 25 tracks. Its first disc is primarily hip hop, while its second disc has been described as R&B and pop. It is executively produced by Drake himself, alongside frequent collaborator 40 and manager Oliver El-Khatib. Scorpion features guest appearances from Jay-Z and Ty Dolla Sign, as well as posthumous appearances from Michael Jackson and Static Major.",
+            "artwork": ["scorpion_ovo.jpeg"],
+            "tracklist": "1. Survival<br>2. Nonstop<br>3. Elevate<br>4. Emotionless<br>5. God’s Plan<br>6. I’m Upset<br>7. 8 Out of 10<br>8. Mob Ties<br>9. Can’t Take a Joke<br>10. Sandra’s Rose<br>11. Talk Up<br>12. Is There More<br>13. Peak<br>14. Summer Games<hr><hr>15. Jaded<br>16. Nice For What<br>17. Finesse<br>18. Ratchet Happy Birthday<br>19. That’s How You Feel<br>20. Blue Tint<br>21. In My Feelings<br>22. Don’t Matter to Me<br>23. After Dark<br>24. Final Fantasy<br>25. March 14"
+        },
+        {
+            "name": "Drake",
+            "shortname": "morelife",
+            "albumname": "More Life",
+            "releasedate": "March 18, 2017",
+            "summary": "More Life is a commercial mixtape by Canadian rapper Drake. Described and marketed as a playlist, some publications have referred to it as a mixtape. It was released on March 18, 2017, through Republic Records and distributed by Cash Money Records and Young Money Entertainment. Production of More Life was handled by a variety of record producers, including 40, Frank Dukes, Boi-1da, Murda Beatz, T-Minus, Nineteen85, and Kanye West, among others. An ensemble of guest vocalists also appear, including West, Young Thug, Giggs, Skepta, Quavo, Travis Scott, 2 Chainz, Jorja Smith, Sampha, and PartyNextDoor.",
+            "artwork": ["morelife_ovo.jpeg"],
+            "tracklist": "1. Free Smoke<br>2. No Long Talk<br>3. Passionfruit<br>4. Jorja Interlude<br>5. Get It Together<br>6. Madiba Riddim<br>7. Blem<br>8. 4422<br>9. Gyalchester<br>10. Skepta Interlude<br>11. Portland<br>12. Sacrifices​<hr>13. Nothings Into Somethings<br>14. Teenage Fever<br>15. KMT<br>16. Lose You<br>17. Can't Have Everything<br>18. Glow<br>19. Since Way Back<br>20. Fake Love<br>21. Ice Melts<br>22. Do Not Disturb"
+        },
+        
+
+
+        {
+            "name": "Drake",
+            "shortname": "views",
+            "albumname": "Views",
+            "releasedate": "April 29, 2016",
+            "summary": "Views is the fourth studio album by Canadian rapper Drake. It was released on April 29, 2016, by Cash Money Records, Republic Records, and Young Money Entertainment. Recording sessions took place from 2015 to 2016, with both Drake and his longtime collaborator and record producer 40 serving as the record's executive producers. 40 also primarily handled the production on the album alongside other record producers such as Nineteen85, Maneesh Bidaye, Kanye West, and Jordan Ullman, among others. Featured guest appearances include PartyNextDoor, Pimp C, Dvsn, Wizkid, Kyla, and Rihanna.",
+            "artwork": ["views_ovo.jpeg"],
+            "tracklist": "1. Keep the Family Close<br>2. 9<br>3. U With Me?<br>4. Feel No Ways<br>5. Hype<br>6. Weston Road Flows<br>7. Redemption<br>8. With You<br>9. Faithful<br>10. Still Here<hr>11. Controlla<br>12. One Dance<br>13. Grammys<br>14. Childs Play<br>15. Pop Style<br>16. Too Good<br>17. Summers Over Interlude<br>18. Fire & Desire<br>19. Views<br>20. Hotline Bling"
         },
         {
             "name": "Drake",
             "shortname": "ifyourereadingthisitstoolate",
             "albumname": "If You're Reading This It's Too Late",
+            "releasedate": "February 13, 2015",
             "summary": "If You're Reading This It's Too Late is a commercial mixtape by Canadian rapper Drake. It was released on February 13, 2015, without prior announcement, by OVO Sound, Young Money Entertainment, Cash Money Records and Republic Records. The mixtape was produced by Drake's longtime collaborators 40 and Boi-1da, as well as labelmate PartyNextDoor, among others. Featured guest appearances include PartyNextDoor, Travis Scott, and Lil Wayne.",
-            "artwork": [
-                "homework/drakeOVOProj/public/images/albumCovers/ifYourReadingThis.jpeg"
-            ],
-            "tracklist": "1. Legend<br>2. Energy<br>3. 10 Bands<br>4. Know Yourself<br>5. No Tellin’<br>6. Madonna<br>7. 6 God<br>8. Star67<br>9. Preach<br>10. Wednesday Night Interlude<br>11. Used To<br>13. Now & Forever<br>14. Company<br>15. You & The 6<br>16. Jungle<br>17. 6PM In New York"
+            "artwork": ["ifyourereadingthisitstoolate_ovo.jpeg"],
+            "tracklist": "1. Legend<br>2. Energy<br>3. 10 Bands<br>4. Know Yourself<br>5. No Tellin’<br>6. Madonna<br>7. 6 God<br>8. Star67<br>9. Preach<hr>10. Wednesday Night Interlude<br>11. Used To<br>12. Now & Forever<br>13. Company<br>14. You & The 6<br>15. Jungle<br>16. 6PM In New York"
         },
-        {}
+        {
+            "name": "Drake",
+            "shortname": "nothingwasthesame",
+            "albumname": "Nothing Was The Same",
+            "releasedate": "September 24, 2013",
+            "summary": "Nothing Was the Same is the third studio album by Canadian rapper Drake. It was released on September 24, 2013, through OVO Sound, Young Money Entertainment, Cash Money Records, and Republic Records. Work on the record began in 2012 and continued through 2013. As an executive producer, Drake enlisted collaborators such as 2 Chainz, Big Sean, Majid Jordan, Jay-Z, Jhené Aiko and Sampha for guest appearances on the album. The album's production was primarily handled by 40 and other OVO Sound producers; including Boi-1da, Mike Zombie, Nineteen85 and Detail.",
+            "artwork": ["nothingwasthesame_ovo.jpeg"],
+            "tracklist": "1. Tuscan Leather<br>2. Furthest Thing<br>3. Started From the Bottom<br>4. Wu-Tang Forever<br>5. Own It<br>6. Worst Behavior<br>7. From Time<br>8. Hold On, We're Going Home<br>9. Connect<br>10. The Language<br>11. 305 to My City<br>12. Too Much<br>13. Pound Cake / Paris Morton Music 2<br>14. Come Thru<br>15. All Me<br>"
+        }
     ]
 }

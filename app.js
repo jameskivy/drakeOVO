@@ -1,7 +1,9 @@
 const express = require('express');
 const app = express();
+const data = require('./data/data.json')
 const port = process.env.PORT || 3000;
 
+app.set('appData', data)
 //static assets
 app.use(express.static('public'))
 
