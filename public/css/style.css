@@ -18,6 +18,21 @@ body{
     border-radius: 150px;
 }
 
+.banner{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.headerPic{
+    position: relative;
+    height: 600px;
+    width: 47.5%;
+    opacity: 40%;
+    z-index: 10;
+}
+
 .mainBox {
     background: rgb(57, 55, 55);
     background: black;
@@ -66,8 +81,23 @@ body{
     justify-content: center;
 }
 
-.quote{
-    color: whitesmoke;
+.boxQuote{
+    height: 350px;
+    width: 450px;
+    background-color: white;
+    color: black;
+}
+
+#rowOne{
+    padding-top: 125px;
+}
+
+#rowTwo{
+    padding-top: 150px;
+}
+
+#rowThree{
+    padding-top: 150px;
 }
 
 .quote1{
